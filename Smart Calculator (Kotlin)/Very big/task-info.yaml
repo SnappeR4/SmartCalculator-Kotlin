@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/calculator/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Test.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/88/stages/493/implement#comment
+status: Solved
+record: -1
